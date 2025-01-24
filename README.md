@@ -1,3 +1,7 @@
+This README is not completed.  
+[Delta's Enigma Systems](https://github.com/4eryemyha/Delta-s_Enigma_Systems) — A link to the project describing all features.
+
+
 # Project Title
 
 A brief description of the project, including its main idea and objectives. This section should provide an overview of what the project is about, its purpose, and the key features that set it apart.
