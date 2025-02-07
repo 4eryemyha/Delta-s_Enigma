@@ -1,6 +1,10 @@
-This README is not completed.  
-[Delta's Enigma Systems](https://github.com/4eryemyha/Delta-s_Enigma_Systems) — A link to the project describing all features.
+# ⚠️❗ ATTENTION! ❗⚠️  
 
+**This project is frozen, and the README is not completed.**  
+For a detailed breakdown of the project, check out:  
+[Delta's Enigma Systems](https://github.com/4eryemyha/Delta-s_Enigma_Systems).
+
+---
 
 # Project Title
 
